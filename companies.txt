@@ -1,31 +1,3 @@
-Applied Industries Technologies
-National City Corporation
-Medical Mutual of Ohio
-Cleveland-Cliffs Naturals
-Eaton
-American Greeting
-Sherwin Williams
-KeyCorp
-Ferro
-Lubrizol
-Lincoln Electric
-Progressive
-NACCO Industries
-Parker Hannifin
-Aleris International
-Jo-Ann Stores
-RPM International
-Poly One
-A Schulman
-First-Energy (Akron)
-Goodyear Tire (Akron)
-Diebold
-J.M. Smucker
-Timken (Canton)
-Geon
-Gen Corp
-LTV
-Pioneer Standard Electronics
-M.A. Hanna
-Roadway Express
-TRW
+Company1
+Company2
+Company3
